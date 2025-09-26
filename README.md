@@ -6,21 +6,20 @@
 
 ###
 
-<p align="left">B.Tech student from Indian Institude of Information technology Allahabad</p>
+<p align="left">B.Tech student from Indian Institude of Information Technology Allahabad</p>
 
-###
 
-<h2 align="left">About me</h2>
 
-###
+<p align="left">About me</p>
+
 
 <p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning TRPC<br>🎲 Fun fact: I make games in free time</p>
 
-###
+
 
 <h2 align="left">I code with</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
