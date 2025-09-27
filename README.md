@@ -6,13 +6,14 @@
 
 ###
 
-<p align="left">B.Tech student from Indian Institude of Information Technology Allahabad</p>
-
+<p align="left">B.Tech student from Indian Institude of Information technology Allahabad</p>
 
 ###
+
 <p align="left">About me</p>
 
 ###
+
 <p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning TRPC<br>🎲 Fun fact: I make games in free time</p>
 
 ###
@@ -65,7 +66,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Digvijay-x1/Digvijay-x1/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Digvijay-x1/Digvijay-x1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Digvijay-x1/Digvijay-x1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Digvijay-x1/Digvijay-x1/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
