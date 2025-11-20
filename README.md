@@ -73,6 +73,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
 </div>
 
