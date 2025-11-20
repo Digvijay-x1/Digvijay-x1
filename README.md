@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning TRPC<br>🎲 Fun fact: I make games in free time</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Rails<br>🎲 Fun fact: I make games in free time</p>
 
 ###
 
@@ -64,6 +64,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="40" alt="rails logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
