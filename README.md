@@ -1,10 +1,5 @@
 <h1 align="left">Hey 👋 I'm Digvijay</h1>
 
-###
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 <p align="left">B.Tech student from Indian Institude of Information technology Allahabad</p>
 
