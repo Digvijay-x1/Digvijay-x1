@@ -4,5 +4,6 @@ I like
 
 - Cloud Native
 - Linux
-- Automation 
+- Automation
+- Networking 
 - Coffee 
