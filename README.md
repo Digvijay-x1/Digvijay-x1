@@ -8,4 +8,7 @@ I like
 - Linux
 - Automation
 - Networking 
-- Coffee 
+- Coffee
+
+
+"Building large software remains hard. And it always be, because our ambition will forever outstrip the metal"
