@@ -4,7 +4,9 @@
 
 ### Open-source engineer · Cloud Native · AI Systems · Linux
 
-[GitHub](https://github.com/Digvijay-x1) · [LinkedIn](https://www.linkedin.com/in/digvijay-singh-rawat/) · [Email](mailto:work@digvijayrawat.me)
+<a href="https://github.com/Digvijay-x1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/digvijay-singh-rawat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:work@digvijayrawat.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email" /></a>
 
 </div>
 
@@ -77,4 +79,3 @@ I also spend a lot of time working upstream rather than only building isolated p
 | **Observability tooling** | Superlog tests, CI, telemetry utilities, and reliability-focused changes |
 
 That work has taught me an important lesson: **a good patch is not just code that works locally; it is code that fits the architecture, survives edge cases, and is easy for the next engineer to trust.**
-
