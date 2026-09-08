@@ -22,36 +22,6 @@ Developer infrastructure →   CI/CD, automation, testing, tooling
 Application engineering  →   APIs, full-stack systems, real-time software
 ```
 
-## Featured work
-
-### 🛰️ [UyuniAI](https://github.com/Digvijay-x1/UyuniAI)
-**Evidence-driven AI monitoring and root-cause analysis for Uyuni.**
-
-A Google Summer of Code 2026 project for openSUSE. The system combines Prometheus telemetry, bounded read-only Uyuni/Salt diagnostics, deterministic evidence checks, and an LLM investigation path to produce structured incident analysis. The design deliberately **fails closed**: weak, stale, contradictory, or unsupported evidence is reported as inconclusive instead of being turned into a confident guess.
-
-**Focus:** observability · RCA · LangGraph · Prometheus · Salt · Alertmanager · reliability
-
-### 🔎 [IGI](https://github.com/Digvijay-x1/IGI)
-**A distributed search engine built from the ground up.**
-
-IGI combines a C++ crawler/indexer, a Python BM25 ranking layer, and a Ruby interface, backed by components such as RocksDB and Redis. It explores the whole search pipeline rather than treating search as a black box: crawling, storage, indexing, ranking, caching, and serving.
-
-**Focus:** C++ · distributed systems · information retrieval · RocksDB · Redis
-
-### 👁️ [ClaimLens](https://github.com/Digvijay-x1/ClaimLens)
-**AI-powered visual evidence review for damage claims.**
-
-ClaimLens combines claim conversations, submitted images, user history, a vision-language ensemble, and deterministic post-processing to produce an explainable verdict. Its evaluation set intentionally includes adversarial cases such as wrong-object submissions, severity exaggeration, stock imagery, and prompt injection hidden inside images.
-
-**Focus:** VLMs · Python · async pipelines · evaluation · trustworthy AI
-
-### 🎬 [GenAI Video Platform](https://github.com/Digvijay-x1/GenAI-Video-Platform)
-**An end-to-end generative video product.**
-
-A full-stack system covering avatar generation, voice cloning/TTS, multilingual video translation with lip-sync, background GPU workloads, job orchestration, authentication, credits, and a web dashboard.
-
-**Focus:** FastAPI · Next.js · Modal · Inngest · AI media pipelines
-
 ## Open-source, beyond my own repos
 
 I also spend a lot of time working upstream rather than only building isolated projects.
@@ -78,41 +48,44 @@ That work has taught me an important lesson: **a good patch is not just code tha
 
 ## Toolbox
 
-**Languages**
+<div align="center">
 
-`C++` · `Rust` · `Python` · `Ruby` · `Go` · `TypeScript` · `JavaScript`
+### Languages
 
-**Infrastructure**
+<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" /></a>
+<a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /></a>
+<a href="https://www.ruby-lang.org/"><img src="https://skillicons.dev/icons?i=ruby" height="48" alt="Ruby" /></a>
+<a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" height="48" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" /></a>
 
-`Linux` · `Docker` · `Kubernetes` · `Prometheus` · `Grafana` · `OpenTelemetry` · `GitHub Actions`
+### Infrastructure & Cloud Native
 
-**Systems & data**
+<a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" /></a>
+<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes" /></a>
+<a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" height="48" alt="Prometheus" /></a>
+<a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" height="48" alt="Grafana" /></a>
+<a href="https://opentelemetry.io/"><img src="https://skillicons.dev/icons?i=opentelemetry" height="48" alt="OpenTelemetry" /></a>
+<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions" /></a>
 
-`PostgreSQL` · `Redis` · `RocksDB` · `REST` · `GraphQL` · `WebSockets`
+### Systems & Data
 
-**Application stack**
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" /></a>
+<a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis" /></a>
+<a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"><img src="https://skillicons.dev/icons?i=websocket" height="48" alt="WebSockets" /></a>
 
-`Next.js` · `React` · `FastAPI` · `Rails` · `Node.js`
+### Application Stack
 
-## A few things I enjoy building
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="Next.js" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" /></a>
+<a href="https://rubyonrails.org/"><img src="https://skillicons.dev/icons?i=rails" height="48" alt="Rails" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" /></a>
 
-```text
-Something starts as a rough idea.
-        ↓
-Model the problem.
-        ↓
-Build the smallest real system.
-        ↓
-Measure it.
-        ↓
-Break it on purpose.
-        ↓
-Fix the failure mode.
-        ↓
-Document what actually works.
-        ↓
-Ship it.
-```
+</div>
 
 ## Explore
 
