@@ -87,14 +87,6 @@ That work has taught me an important lesson: **a good patch is not just code tha
 
 </div>
 
-## Explore
-
-The repositories below are only a snapshot. I keep experiments, production-oriented work, open-source contributions, and learning projects in public, so the best way to see what I'm doing now is to browse the full repository list.
-
-**[→ Browse all public repositories](https://github.com/Digvijay-x1?tab=repositories)**
-
----
-
 > “Building large software remains hard. And it always will, because our ambition will forever outstrip the metal.”
 
 <div align="center">
