@@ -10,9 +10,6 @@
 
 </div>
 
-> “Building large software remains hard. And it always will, because our ambition will forever outstrip the metal.”
-
-I build systems across **cloud-native infrastructure, distributed software, AI/LLM applications, developer tooling, and Linux**. I care less about collecting frameworks and more about understanding what happens underneath them: failure modes, performance, concurrency, observability, and the boundaries between components.
 
 ## What I work on
 
