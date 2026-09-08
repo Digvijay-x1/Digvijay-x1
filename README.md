@@ -43,7 +43,7 @@ Application engineering  →   APIs, full-stack systems, real-time software
 <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes" /></a>
 <a href="https://prometheus.io/"><img src="https://skillicons.dev/icons?i=prometheus" height="48" alt="Prometheus" /></a>
 <a href="https://grafana.com/"><img src="https://skillicons.dev/icons?i=grafana" height="48" alt="Grafana" /></a>
-<a href="https://opentelemetry.io/"><img src="https://skillicons.dev/icons?i=opentelemetry" height="48" alt="OpenTelemetry" /></a>
+<a href="https://opentelemetry.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=opentelemetry" height="48" alt="OpenTelemetry" /></a>
 <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions" /></a>
 
 ### Systems & Data
