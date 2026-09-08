@@ -8,7 +8,7 @@
 
 </div>
 
-> I like software that is easy to reason about, hard to break, and pleasant to operate.
+> “Building large software remains hard. And it always will, because our ambition will forever outstrip the metal.”
 
 I build systems across **cloud-native infrastructure, distributed software, AI/LLM applications, developer tooling, and Linux**. I care less about collecting frameworks and more about understanding what happens underneath them: failure modes, performance, concurrency, observability, and the boundaries between components.
 
@@ -21,21 +21,6 @@ AI / LLM systems         →   agents, structured output, evaluation, safety
 Developer infrastructure →   CI/CD, automation, testing, tooling
 Application engineering  →   APIs, full-stack systems, real-time software
 ```
-
-## Open-source, beyond my own repos
-
-I also spend a lot of time working upstream rather than only building isolated projects.
-
-| Ecosystem | What I've worked on |
-|---|---|
-| **openSUSE / Uyuni** | reliability fixes, SSL/certificate diagnostics, FQDN verification, UX fixes, documentation, dependency/security updates |
-| **openSUSE / Open Build Service** | validation hardening, malformed-input handling, crash fixes, race-condition handling, and performance improvements |
-| **Rage** | WebSocket stream lifecycle APIs and OpenAPI-related work in a modern Ruby backend framework |
-| **Talawa** | GraphQL/DataLoader performance work, cache invalidation, test coverage, developer tooling, and rootless container development |
-| **CNCF ecosystem** | contributions across Koordinator, Volcano, Chaos Mesh, and KubeEdge |
-| **Observability tooling** | Superlog tests, CI, telemetry utilities, and reliability-focused changes |
-
-That work has taught me an important lesson: **a good patch is not just code that works locally; it is code that fits the architecture, survives edge cases, and is easy for the next engineer to trust.**
 
 ## Toolbox
 
@@ -78,7 +63,23 @@ That work has taught me an important lesson: **a good patch is not just code tha
 
 </div>
 
-> “Building large software remains hard. And it always will, because our ambition will forever outstrip the metal.”
+## Open-source, beyond my own repos
+
+I also spend a lot of time working upstream rather than only building isolated projects.
+
+| Ecosystem | What I've worked on |
+|---|---|
+| **openSUSE / Uyuni** | reliability fixes, SSL/certificate diagnostics, FQDN verification, UX fixes, documentation, dependency/security updates |
+| **openSUSE / Open Build Service** | validation hardening, malformed-input handling, crash fixes, race-condition handling, and performance improvements |
+| **Rage** | WebSocket stream lifecycle APIs and OpenAPI-related work in a modern Ruby backend framework |
+| **Talawa** | GraphQL/DataLoader performance work, cache invalidation, test coverage, developer tooling, and rootless container development |
+| **CNCF ecosystem** | contributions across Koordinator, Volcano, Chaos Mesh, and KubeEdge |
+| **Observability tooling** | Superlog tests, CI, telemetry utilities, and reliability-focused changes |
+
+That work has taught me an important lesson: **a good patch is not just code that works locally; it is code that fits the architecture, survives edge cases, and is easy for the next engineer to trust.**
+
+
+
 
 <div align="center">
 
