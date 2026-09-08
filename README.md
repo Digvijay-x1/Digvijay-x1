@@ -10,6 +10,8 @@
 
 </div>
 
+> “Building large software remains hard. And it always will, because our ambition will forever outstrip the metal.”
+
 
 ## What I work on
 
