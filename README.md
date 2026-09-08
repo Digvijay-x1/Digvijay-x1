@@ -37,15 +37,6 @@ I also spend a lot of time working upstream rather than only building isolated p
 
 That work has taught me an important lesson: **a good patch is not just code that works locally; it is code that fits the architecture, survives edge cases, and is easy for the next engineer to trust.**
 
-## Engineering principles
-
-- **Evidence over vibes.** Measure behavior, then make claims.
-- **Fail safely.** A system should degrade predictably instead of silently lying.
-- **Make failure observable.** Logs, metrics, tests, and diagnostics are part of the feature.
-- **Keep boundaries sharp.** Small interfaces make large systems easier to evolve.
-- **Test the ugly paths.** The interesting bugs usually live in malformed input, retries, races, partial failures, and unexpected state.
-- **Prefer simpler operations.** Fewer moving parts usually means fewer ways to break production.
-
 ## Toolbox
 
 <div align="center">
