@@ -4,7 +4,7 @@
 
 ### Open-source engineer · Cloud Native · AI Systems · Linux
 
-<a href="https://github.com/Digvijay-x1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub" /></a>&nbsp;
+<a href="https://x.com/DIGVIJAY__RAWAT"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="32" alt="X" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/digvijay-singh-rawat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:work@digvijayrawat.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email" /></a>
 
