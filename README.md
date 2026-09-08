@@ -78,11 +78,3 @@ I also spend a lot of time working upstream rather than only building isolated p
 
 That work has taught me an important lesson: **a good patch is not just code that works locally; it is code that fits the architecture, survives edge cases, and is easy for the next engineer to trust.**
 
-
-
-
-<div align="center">
-
-**Build things. Break things. Understand why they broke.**
-
-</div>
