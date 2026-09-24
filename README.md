@@ -29,13 +29,11 @@ Application engineering  →   APIs, full-stack systems, real-time software
 
 ### Languages
 
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" /></a>
-<a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust" /></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" /></a>
+<a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust" /></a>
 <a href="https://www.ruby-lang.org/"><img src="https://skillicons.dev/icons?i=ruby" height="48" alt="Ruby" /></a>
 <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" height="48" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" /></a>
 
 ### Infrastructure & Cloud Native
 
