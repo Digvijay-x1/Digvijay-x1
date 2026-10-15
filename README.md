@@ -35,6 +35,15 @@ Application engineering  →   APIs, full-stack systems, real-time software
 <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" height="48" alt="TypeScript" /></a>
 
+###  AI Engineering
+
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /></a>
+<a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" /></a>
+<a href="https://www.langchain.com/langsmith"><img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langsmith&logoColor=white" alt="LangSmith" /></a>
+<a href="https://ai.pydantic.dev/"><img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic AI" /></a>
+<a href="https://www.llamaindex.ai/"><img src="https://img.shields.io/badge/LlamaIndex-8E5CF7?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex" /></a>
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-FF6F00?style=for-the-badge" alt="RAG" />
+
 ### Infrastructure & Cloud Native
 
 <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" /></a>
@@ -45,9 +54,10 @@ Application engineering  →   APIs, full-stack systems, real-time software
 <a href="https://opentelemetry.io/"><img src="https://go-skill-icons.vercel.app/api/icons?i=opentelemetry" height="48" alt="OpenTelemetry" /></a>
 <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions" /></a>
 
-### Systems & Data
+### Databases & Systems
 
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" /></a>
 <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" height="48" alt="Redis" /></a>
 <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"><img src="https://skillicons.dev/icons?i=websocket" height="48" alt="WebSockets" /></a>
@@ -59,6 +69,15 @@ Application engineering  →   APIs, full-stack systems, real-time software
 <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI" /></a>
 <a href="https://rubyonrails.org/"><img src="https://skillicons.dev/icons?i=rails" height="48" alt="Rails" /></a>
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" /></a>
+
+</div>
+
+##  Featured projects
+
+<div align="center">
+
+<a href="https://github.com/Digvijay-x1/Billwave"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Digvijay-x1&repo=Billwave&theme=tokyonight&hide_border=true" alt="Billwave" /></a>
+<a href="https://github.com/Digvijay-x1/Fluidframe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Digvijay-x1&repo=Fluidframe&theme=tokyonight&hide_border=true" alt="Fluidframe" /></a>
 
 </div>
 
