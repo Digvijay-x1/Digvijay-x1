@@ -72,15 +72,6 @@ Application engineering  →   APIs, full-stack systems, real-time software
 
 </div>
 
-##  Featured projects
-
-<div align="center">
-
-<a href="https://github.com/Digvijay-x1/Billwave"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Digvijay-x1&repo=Billwave&theme=tokyonight&hide_border=true" alt="Billwave" /></a>
-<a href="https://github.com/Digvijay-x1/Fluidframe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Digvijay-x1&repo=Fluidframe&theme=tokyonight&hide_border=true" alt="Fluidframe" /></a>
-
-</div>
-
 ## Open-source, beyond my own repos
 
 I also spend a lot of time working upstream rather than only building isolated projects.
